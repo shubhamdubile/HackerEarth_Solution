@@ -8,7 +8,7 @@
   <tr>
     <td>Factorial!</td>
     <td>1/09/20</td>
-    <td><a>https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/</a></td>
+    <td>https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/</td>
     
   </tr>
   <tr>
