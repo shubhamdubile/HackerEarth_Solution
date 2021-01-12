@@ -7,13 +7,13 @@
   </tr>
   <tr>
     <td>Factorial!</td>
-    <td>1/09/20</td>
     <td>https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/</td>
+    <td>https://www.youtube.com/watch?v=hMFtDUN94WY&list=PLDPkidmKyUjusqpkJe2HVJVXnD9XcMj3K</td>
     
   </tr>
   <tr>
-    <td>02</td>
-    <td>10/11/20</td>
+    <td>Find Product</td>
+    <td>https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/</td>
     <td>Assignment 02</td>
     
   </tr>
