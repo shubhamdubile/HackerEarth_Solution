@@ -14,7 +14,7 @@
   <tr>
     <td>Find Product</td>
     <td>https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/</td>
-    <td>Assignment 02</td>
+    <td>https://www.youtube.com/watch?v=Dli_neW_2FU&t=3s</td>
     
   </tr>
 </table>
